@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e24180b239323964ab6efba7e8f6bf75, type: 3}
+  m_Name: Grassland
+  m_EditorClassIdentifier: 
+  environmentType: 1
+  empty:
+  - {fileID: 5414965350946681437, guid: f999b0b3cc48b714db0f4cb77b8c4ba1, type: 3}
+  start: {fileID: 2550369722246907610, guid: 7648ddeaa36ef2845b76d6da9345a0c3, type: 3}
+  exit: {fileID: 2550369722246907610, guid: 7648ddeaa36ef2845b76d6da9345a0c3, type: 3}
+  startSymbol: {fileID: 7575686323426452438, guid: 3812e270f1a4b3e4b869ebe832585328,
+    type: 3}
+  exitSymbol: {fileID: 5938851196638844901, guid: c14cb380604171f438d9a889ea3e9feb,
+    type: 3}
+  obstacles:
+  - {fileID: 1000011901478696, guid: 7de4ed2e68b8f6b41bf83021ed49741e, type: 3}
+  - {fileID: 1000013574824664, guid: 823e5f2073f8f044d9f3208c1125dd73, type: 3}
+  - {fileID: 1000010061563708, guid: 666ec3b7bb72c254495bd598576ab332, type: 3}
+  - {fileID: 173180, guid: 15e25f77f96ff474eb0e4f235d1338fe, type: 3}
+  - {fileID: 198302, guid: 7561f0cfc3da4a641beec58b15914c4b, type: 3}
+  - {fileID: 141540, guid: 82f258a1b46e8b640908bfe7ad2de692, type: 3}
+  - {fileID: 186646, guid: 81871a7d538556b4bac9f2ce0ee55b09, type: 3}
+  - {fileID: 173180, guid: 4ea245d0bdf3fb64a8832d764b4fc0a7, type: 3}
+  - {fileID: 141540, guid: 84ebd3e4b4a3a174dba59b64bc2f1cbe, type: 3}
+  - {fileID: 5136725999255375000, guid: 01526068472b37447b29615c70ed50a5, type: 3}
+  - {fileID: 6953572956404416506, guid: f408e0726a889ca49b804c56bd83f9a5, type: 3}
+  decorations:
+  - {fileID: 4678832925826104960, guid: f839c492ab48582428285c7a17d1bc06, type: 3}
+  - {fileID: 247557087069711509, guid: a074f40073a2385429f5f7c8bf29101d, type: 3}
+  - {fileID: 4296554043337290580, guid: e67061355df8e544dbd8d0d68f517fae, type: 3}
+  - {fileID: 6185187549688426521, guid: 42663706428758842a60a500acbeb505, type: 3}
+  - {fileID: 3351984027439930311, guid: 116b476a12e018f4d8881d9e423f4d6c, type: 3}
+  - {fileID: 8593037651448893659, guid: 875675f5b5bb4cb41a3166f9d107e916, type: 3}
+  items: []

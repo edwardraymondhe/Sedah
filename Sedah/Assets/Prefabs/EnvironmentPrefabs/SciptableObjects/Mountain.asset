@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e24180b239323964ab6efba7e8f6bf75, type: 3}
+  m_Name: Mountain
+  m_EditorClassIdentifier: 
+  environmentType: 3
+  empty:
+  - {fileID: 2816188565251162197, guid: f779c866f2fe82347bc39a0db9e6bf3c, type: 3}
+  - {fileID: 4978032625140686136, guid: aeecd484f5df3ba40a07ab0b6d6258bd, type: 3}
+  start: {fileID: 2550369722246907610, guid: 7648ddeaa36ef2845b76d6da9345a0c3, type: 3}
+  exit: {fileID: 2550369722246907610, guid: 7648ddeaa36ef2845b76d6da9345a0c3, type: 3}
+  startSymbol: {fileID: 7575686323426452438, guid: 3812e270f1a4b3e4b869ebe832585328,
+    type: 3}
+  exitSymbol: {fileID: 5938851196638844901, guid: c14cb380604171f438d9a889ea3e9feb,
+    type: 3}
+  obstacles:
+  - {fileID: 479147649697966251, guid: c96488c5774ad864c935ec194958d7bc, type: 3}
+  - {fileID: 7628316311155292716, guid: 7332e374d17a5fa4a9246d33cc437744, type: 3}
+  - {fileID: 4374491341685011704, guid: ff4115c708eca5246b5e322247ab1642, type: 3}
+  - {fileID: 1059582910008025785, guid: cc0dec776244a1548a42af087cee4029, type: 3}
+  - {fileID: 2376037893099476900, guid: 843e5809961a82c49a5d6150700ebae6, type: 3}
+  - {fileID: 4719679982186055770, guid: 689454098e2318d45b8bec9335f20304, type: 3}
+  - {fileID: 5136725999255375000, guid: 01526068472b37447b29615c70ed50a5, type: 3}
+  - {fileID: 6953572956404416506, guid: f408e0726a889ca49b804c56bd83f9a5, type: 3}
+  decorations:
+  - {fileID: 3351984027439930311, guid: 116b476a12e018f4d8881d9e423f4d6c, type: 3}
+  - {fileID: 8593037651448893659, guid: 875675f5b5bb4cb41a3166f9d107e916, type: 3}
+  items: []
